@@ -1,0 +1,1 @@
+function c(t){return(r,e)=>(r&&typeof r!="string"&&(e=r,r=""),r=r?`${t}__${r}`:t,`${r}${u(r,e)}`)}function u(t,r){return r?typeof r=="string"?` ${t}--${r}`:Array.isArray(r)?r.reduce((e,n)=>e+u(t,n),""):Object.keys(r).reduce((e,n)=>e+(r[n]?u(t,n):""),""):""}function i(t){const r=`t-${t}`;return[r,c(r)]}export{i as c};

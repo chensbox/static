@@ -1,0 +1,1 @@
+const e=[Number,String],a={type:Boolean,default:!0},r={type:Boolean,default:!1},o=()=>({type:Array,default:()=>[]}),s=t=>({type:e,default:t}),n=t=>({type:String,default:t});export{o as a,s as b,r as f,n as m,e as n,a as t};

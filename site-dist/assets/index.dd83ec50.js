@@ -1,0 +1,1 @@
+import{c as n}from"./createBem.9e81425a.js";import{_ as c}from"./iframe-router.1a75ae54.js";import{o as e,a as o,n as _,c as p}from"./vue-libs.ecaed212.js";const[l,m]=n("skeleton"),i={name:l,setup(){return{bem:m}}};function u(r,t,a,s,d,x){return e(),o("div",{class:_(s.bem())},null,2)}var f=c(i,[["render",u]]);const B={setup(r){return(t,a)=>(e(),p(f))}};export{B as default};

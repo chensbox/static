@@ -1,0 +1,1 @@
+*{padding:0;margin:0}.list{overflow-y:scroll;height:300px;background:#ccc}.list>div{padding:0;color:#fff;text-align:center;line-height:40px}.list>div:nth-child(2n){background:#66c6f2}.list>div:nth-child(2n + 1){background:#39a9ed}

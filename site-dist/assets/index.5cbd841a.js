@@ -1,0 +1,1 @@
+import{_ as o}from"./iframe-router.1a75ae54.js";import{o as s,a as r,i as t}from"./vue-libs.ecaed212.js";const a={props:{show:Boolean},emits:["click"]},c={class:"cell-group"};function _(e,n,l,p,i,d){return s(),r("div",c,[t(e.$slots,"default")])}var m=o(a,[["render",_]]);export{m as c};
